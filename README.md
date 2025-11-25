@@ -2,7 +2,8 @@
 
 Real-time poker profiling through topological braid theory. Maps betting sequences to algebraic braids and computes invariants for behavioral fingerprinting.
 
-<img width="1905" height="802" alt="9VAQ31h" src="https://github.com/user-attachments/assets/3fd20cbf-c5ea-428d-91e4-df095dd84b1f" />
+<img width="1573" height="817" alt="j36BHum" src="https://github.com/user-attachments/assets/32c2c9b0-cfdf-428d-9378-419b420de495" />
+
 
 ## What This Does
 
