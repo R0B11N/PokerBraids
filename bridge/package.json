@@ -1,0 +1,23 @@
+{
+  "name": "braids-bridge",
+  "version": "1.0.0",
+  "description": "PokerNow → Braid Engine bridge tools",
+  "main": "raw_wiretap.js",
+  "scripts": {
+    "wiretap": "node raw_wiretap.js"
+  },
+  "keywords": [
+    "pokernow",
+    "braid",
+    "wiretap",
+    "websocket"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "puppeteer": "^21.11.0"
+  },
+  "type": "commonjs"
+}
+

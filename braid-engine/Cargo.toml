@@ -1,0 +1,9 @@
+[package]
+name = "braid-engine"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+nalgebra = { version = "0.32", features = ["std", "compare"] }
+num-complex = "0.4"
+serde = { version = "1.0", features = ["derive"] }
