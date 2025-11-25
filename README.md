@@ -2,6 +2,8 @@
 
 Real-time poker profiling through topological braid theory. Maps betting sequences to algebraic braids and computes invariants for behavioral fingerprinting.
 
+<img width="1905" height="802" alt="9VAQ31h" src="https://github.com/user-attachments/assets/3fd20cbf-c5ea-428d-91e4-df095dd84b1f" />
+
 ## What This Does
 
 Poker hands have structure. A bet-raise-reraise sequence is topologically different from check-check-bet. This system:
@@ -163,7 +165,7 @@ Same math applies to order flow analysis - aggressive buying has different braid
 
 ## STILL BUILDING:
 
-Creating a prediction engine with ML on the strands to predict live time behaviour based on past hands and optimising the HUD to be more than a decent working prototype
+Creating a prediction engine with ML on the strands to predict live time behaviour based on past hands and optimising the HUD to be more than a decent working prototype!
 
 ## License
 
